@@ -3,7 +3,7 @@
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-Rating calculators for various popular mobile/arcade rgs
+Rating calculators for various popular mobile/arcade RGs
 
 ### Features
 
@@ -19,7 +19,6 @@ Rating calculators for various popular mobile/arcade rgs
 ### Setup instructions
 
 0. Install Python 3.11 or newer and relevant dependencies in  `requirements.txt`
-   [Poetry](https://python-poetry.org/docs/#installation)
 1. `[gamename].py`
 
 ### Credits
